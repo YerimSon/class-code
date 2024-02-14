@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Yerim's%20class%20code!&fontColor=000000&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Yerim's%20class%20code!&fontColor=ffffff&animation=twinkling)
 
 
 # class-code
